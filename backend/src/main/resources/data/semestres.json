@@ -1,0 +1,2504 @@
+[
+	{
+		"_id" : {
+			"$oid": "6177a31824f1d205e0b0692d"
+		},
+		"description" : "une petite description sur s1",
+		"img" : "c'est l'url de l'image de s1",
+		"name" : "s1",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6177a3648207e0587345067a"
+		},
+		"description" : "une petite description sur s2",
+		"img" : "c'est l'url de l'image de s2",
+		"name" : "s2",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6177a39b665edf352cf74f90"
+		},
+		"description" : "une petite description sur s3",
+		"img" : "c'est l'url de l'image de s3",
+		"name" : "s3",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6178f9e3c2533871717abaf2"
+		},
+		"description" : "une petite description sur s4",
+		"img" : "c'est l'url de l'image de s4",
+		"name" : "s4",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6178fa80b2162e1fd560e33f"
+		},
+		"description" : "une petite description sur s5",
+		"img" : "c'est l'url de l'image de s5",
+		"name" : "s5",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"_id": {
+			"$oid": "618244a55ec6eb500c8b5be0"
+		},
+		"description" : "une petite description sur s6",
+		"img" : "c'est l'url de l'image de s6",
+		"name" : "s6",
+		"filiere" : "smia",
+		"matieres" : {
+			"analyse 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 1" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"algebre 2" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"thrmodinamique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"mecanique de pointes" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"langue et terminologi" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			},
+			"introduction a l'informatique" : {
+				"img": "",
+				"cours" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of cours 1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of cours",
+						"url" : ""
+					}],
+				"tds" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of td1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of td2",
+						"url" : ""
+					}
+				],
+				"tps" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				],
+				"exams" : [
+					{
+						"num": 1,
+						"img": "",
+						"name" : "name of tp1",
+						"url" : ""
+					},
+					{
+						"num": 2,
+						"img": "",
+						"name" : "name of tp2",
+						"url" : ""
+					}
+				]
+			}
+		}
+	}
+]

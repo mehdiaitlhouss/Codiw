@@ -1,0 +1,553 @@
+{
+	"description" : "une petite description sur s1",
+	"img" : "image s1",
+	"name" : "s1",
+	"matieres" : {
+		"analyse1" : {
+			"name" : "analyse 1",
+			"img" : "image analyse 1",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"algebre1" : 	{
+			"name" : "algebre 1",
+			"img" : "image algebre 1",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"algebre2" : 	{
+			"name" : "algebre 2",
+			"img" : "image algebre 2",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"mecaniqueDePoints" : 		{
+			"name" : "mecanique de points",
+			"img" : "image mecanique de points",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"thermodinamique" : 		{
+			"name" : "thermodinamique",
+			"img" : "image thermodinamique",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"introductionInformatique" : 		{
+			"name" : "introduction a l'informatique",
+			"img" : "image introduction a l'informatique",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		},
+		"langueEtTerminologie" : 					{
+			"name" : "langue et terminologie",
+			"img" : "image langue et terminologie",
+			"contenus" : {
+				"cours" :		{
+					"name" : "cours",
+					"img" : "image cours",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image cours 1",
+							"name" : "name of cours 1",
+							"url" : "url cours 1"
+						},
+						{
+							"num": 2,
+							"img": "image cours 2",
+							"name" : "name cours 2",
+							"url" : "url cours 2"
+						}
+					]
+				},
+				"tds" :	{
+					"name" : "tds",
+					"img" : "image tds",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image td 1",
+							"name" : "name of td 1",
+							"url" : "url td 1"
+						},
+						{
+							"num": 2,
+							"img": "image td 2",
+							"name" : "name of td 2",
+							"url" : "url td 2"
+						}
+					]
+				},
+				"tps" :	{
+					"name" : "tps",
+					"img" : "image tps",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image tp 1",
+							"name" : "name of tp 1",
+							"url" : "url tp 1"
+						},
+						{
+							"num": 2,
+							"img": "image tp 2",
+							"name" : "name of tp 2",
+							"url" : "url tp 2"
+						}
+					]
+				},
+				"exams" :	{
+					"name" : "exams",
+					"img" : "image exams",
+					"ressources" : [
+						{
+							"num": 1,
+							"img": "image exam 1",
+							"name" : "name of exam 1",
+							"url" : "url exam 1"
+						},
+						{
+							"num": 2,
+							"img": "image exam 2",
+							"name" : "name of exam 2",
+							"url" : "url exam 2"
+						}
+					]
+				}
+			}
+		}
+	}
+}
