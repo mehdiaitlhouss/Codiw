@@ -1,6 +1,8 @@
 package com.miola.codiw.smia;
 
+import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
+import org.springframework.web.server.ResponseStatusException;
 
 import java.util.List;
 
@@ -26,8 +28,10 @@ public class SemesterServiceImp implements ISemesterService
     @Override
     public List<Matiere> getAllMatieres(String semesterName)
     {
-        return semesterRepository.findSemesterByName(semesterName)
-                .getMatieres()
+        Semester semester = semesterRepository.findSemesterByName(semesterName).orElseThrow(
+            () -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Semester not found")
+    );
+        return semester.getMatieres()
                 .values()
                 .stream()
                 .toList();
@@ -36,8 +40,10 @@ public class SemesterServiceImp implements ISemesterService
     @Override
     public List<Contenu> getAllContenus(String semesterName, String matiereName)
     {
-        return semesterRepository.findSemesterByName(semesterName)
-                .getMatieres()
+        Semester semester = semesterRepository.findSemesterByName(semesterName).orElseThrow(
+                () -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Semester not found")
+        );
+        return semester.getMatieres()
                 .get(matiereName)
                 .getContenus()
                 .values()
@@ -48,8 +54,10 @@ public class SemesterServiceImp implements ISemesterService
     @Override
     public List<Ressource> getAllRessources(String semesterName, String matiereName, String ressourceName)
     {
-        return semesterRepository.findSemesterByName(semesterName)
-                .getMatieres()
+        Semester semester = semesterRepository.findSemesterByName(semesterName).orElseThrow(
+                () -> new ResponseStatusException(HttpStatus.NOT_FOUND, "Semester not found")
+        );
+        return semester.getMatieres()
                 .get(matiereName)
                 .getContenus()
                 .get(ressourceName)

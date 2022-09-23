@@ -1,0 +1,16 @@
+<nav [ngClass]="{ 'window-scroll' : scrolled === true }">
+    <div class="container nav__container">
+      <a href="index.html">
+        <h4>EGATOR</h4>
+      </a>
+      <ul class="nav__menu">
+        <li><a routerLink="">Home</a></li>
+        <li><a routerLink="about">About</a></li>
+        <li><a routerLink="courses">Courses</a></li>
+        <li><a routerLink="smia">Smia</a></li>
+        <li><a routerLink="contact">Contact</a></li>
+      </ul>
+      <button id="open-menu-btn"><i class="uil uil-bars"></i></button>
+      <button id="close-menu-btn"><i class="uil uil-times"></i></button>
+    </div>
+</nav>

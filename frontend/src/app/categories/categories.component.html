@@ -1,0 +1,14 @@
+<section class="categories">
+    <div class="container categories__container">
+      <div class="categories__left">
+        <h1>Categories</h1>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim blanditiis voluptatem in impedit iusto tempora ea dolor ipsam mollitia consequuntur, atque corporis doloribus eum sequi nam cupiditate eaque est qui!
+        </p>
+        <a href="#" class="btn">Learn More</a>
+      </div>
+      <div class="categories__right">
+        <app-category *ngFor="let categorie of categories" [categorie]="categorie"></app-category>
+      </div>
+    </div>
+</section>

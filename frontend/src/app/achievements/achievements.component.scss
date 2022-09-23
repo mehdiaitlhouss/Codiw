@@ -1,0 +1,31 @@
+.about__achievements {
+    margin-top: 3rem;
+}
+
+.about__achievements-container {
+    display: grid;
+    grid-template-columns: 40% 40%;
+    gap: 5rem;
+}
+
+/* .about__achievements-left > p {
+    margin: 1.6rem 0 2.5rem;
+} */
+
+.about__achievements-right > p {
+    margin: 1.6rem 0 2.5rem;
+}
+
+.achievements__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+}
+
+.achievement__card:nth-child(2) .achievement__icon {
+    background: var(--color-success);
+}
+
+.achievement__card:nth-child(3) .achievement__icon {
+    background: var(--color-primary);
+}
