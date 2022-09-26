@@ -22,7 +22,7 @@ import { TeamComponent } from './components/team/team.component';
 import { CoursesPageComponent } from './components/courses-page/courses-page.component';
 import { ContactUsComponent } from './components/contact-us/contact-us.component';
 import { SemestersPageComponent } from './components/semesters-page/semesters-page.component';
-import { MatieresPageComponent } from './matieres-page/matieres-page.component';
+import { MatieresPageComponent } from './components/matieres-page/matieres-page.component';
 @NgModule({
   declarations: [
     AppComponent,

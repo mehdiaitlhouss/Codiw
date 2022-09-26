@@ -1,1 +1,6 @@
-<p>matieres-page works!</p>
+<section class="courses">
+    <h2>S1</h2>
+    <div class="portfolio-content">
+        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu" (click)="onGetContenet(contenu.name)"></app-contenu>
+    </div>
+</section>

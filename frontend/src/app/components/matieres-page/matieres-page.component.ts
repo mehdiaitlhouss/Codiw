@@ -1,5 +1,7 @@
+import { HttpErrorResponse, HttpXhrBackend } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
+import { Contenu } from 'src/app/contenu';
 import { SemesterService } from 'src/app/semester.service';
 
 @Component({
@@ -8,12 +10,29 @@ import { SemesterService } from 'src/app/semester.service';
   styleUrls: ['./matieres-page.component.scss']
 })
 export class MatieresPageComponent implements OnInit {
+  public contenus!: Contenu[];
+  public semesterName!: string;
 
-  constructor() {private semesterService: SemesterService, private route: ActivatedRoute }
+  constructor(private semesterService: SemesterService, private route: ActivatedRoute) { }
 
-  ngOnInit(): void {
-    const semesterName = +this.route.smia.parmas['semesterName'];
+  ngOnInit() {
+    this.semesterName = this.route.snapshot.params['semesterName'];
+    this.getMatieres();
   }
 
+  public getMatieres(): void {
+    this.semesterService.getMatieres(this.semesterName).subscribe(
+      (Response: Contenu[]) => {
+        this.contenus = Response;
+      },
+      (error: HttpErrorResponse) => {
+        alert(error.message);
+      }
+    );
+  }
+
+  onGetContenet(contentName: string) {
+    
+  }
 }
 

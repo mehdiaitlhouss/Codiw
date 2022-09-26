@@ -127,11 +127,39 @@ img {
 }
 
 .courses {
-    margin-top: 10rem;
+    margin-top: 1rem;
 }
 
 .courses__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1rem;
+}
+
+.portfolio-content{
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+	align-items: center;
+	gap: 3rem;
+	// margin-top: 1rem;
+}
+
+.row img{
+	height: auto;
+	width: 100%;
+	border-radius: 0.5rem;
+}
+
+.row {
+	padding: 25px;
+	background: transparent;
+	border-radius: 0.5rem;
+	transition: all .40s ease;
+}
+
+.row:hover{
+	transform: scale(1.01) translateY(-5px);
+	cursor: pointer;
+    background: var(--color-bg1);
+    border-color: var(--color-primary);
 }
