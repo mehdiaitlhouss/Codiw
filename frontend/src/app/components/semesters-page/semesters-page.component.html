@@ -1,0 +1,15 @@
+<!-- <section class="portfolio" id="portfolio">
+    <div class="main-text">
+        <h2>Semesters</h2>
+    </div>
+    <div class="portfolio-content">
+        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu"></app-contenu>
+    </div>
+</section> -->
+
+<section class="courses">
+    <h2>Semesters</h2>
+    <div class="portfolio-content">
+        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu" (click)="onGetSemester(contenu.name)"></app-contenu>
+    </div>
+</section>

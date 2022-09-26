@@ -1,0 +1,20 @@
+<swiper 
+    [slidesPerView]="1"
+    [spaceBetween]="30"
+    [pagination]="{clickable: true}"
+    class="mySwiper"
+    class="container testimonials__container mySwiper"
+>
+    <ng-template swiperSlide *ngFor="let person of persons" class="testimonial">
+        <div class="avatar">
+          <img [src]="person.img" alt="avatar1">
+        </div>
+        <div class="testimonial__info">
+          <h5>{{ person.name }}</h5>
+          <small>{{ person.type }}</small>
+        </div>
+        <div class="testimonial__body">
+          <p>{{ person.description }}</p>
+        </div>
+    </ng-template>
+</swiper>

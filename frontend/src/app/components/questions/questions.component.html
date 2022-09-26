@@ -1,0 +1,17 @@
+<section class="faqs">
+    <h2>Frequently asqued questions</h2>
+    <div class="container faqs__container">
+        <!-- <app-question *ngFor="let question of questions" [question]="question"></app-question> -->
+        <article *ngFor="let question of questions" class="faq" [ngClass]="{open : question.open === true}" (click)="onOpen(question.id)">
+            <div class="faq__icon">
+                <i class="{{ question.open ? 'uil uil-minus' : 'uil uil-plus' }}"></i>
+                <!-- <i *ngIf="open === true" class="uil uil-minus"></i>
+                <i *ngIf="open === false" class="uil uil-plus"></i> -->
+            </div>
+            <div class="question_answer">
+              <h4>{{question.question}}</h4>
+              <p>{{question.answer}}</p>
+            </div>
+        </article>
+    </div>
+</section>
