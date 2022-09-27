@@ -8,8 +8,6 @@ import lombok.*;
 @ToString
 public class SemesterDto
 {
-    private String id;
-    private String description;
     private String name;
     private String img;
 }
