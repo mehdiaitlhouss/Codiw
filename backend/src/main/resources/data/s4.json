@@ -1,10 +1,10 @@
 {
-	"img" : "image s1",
-	"name" : "s1",
+	"img" : "image s4",
+	"name" : "s4",
 	"matieres" : {
-		"analyse1" : {
-			"name" : "Analyse 1",
-			"img" : "image de analyse 1",
+		"arichitectureDesOrdinateurs" : {
+			"name" : "Arichitecture Des Ordinateurs",
+			"img" : "image Arichitecture Des Ordinateurs",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -80,9 +80,9 @@
 				}
 			}
 		},
-		"algebre1" : 	{
-			"name" : "Algebre 1",
-			"img" : "image de algebre 1",
+		"structureDesDonnées" : 	{
+			"name" : "Structure Des Données",
+			"img" : "image Structure Des Données",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -158,9 +158,9 @@
 				}
 			}
 		},
-		"algebre2" : 	{
-			"name" : "Algebre 2",
-			"img" : "image de algebre 2",
+		"electromagnétisme" : 	{
+			"name" : "Electromagnétisme",
+			"img" : "image Electromagnétisme",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -236,9 +236,9 @@
 				}
 			}
 		},
-		"mecaniqueDePoints" : 		{
-			"name" : "Mecanique De Points",
-			"img" : "image de mecanique de points",
+		"langageC" : 		{
+			"name" : "langage C",
+			"img" : "image de langage C",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -314,9 +314,9 @@
 				}
 			}
 		},
-		"thermodinamique" : 		{
-			"name" : "Thermodinamique",
-			"img" : "image de thermodinamique",
+		"electroniqueNumerique" : 		{
+			"name" : "Electronique Numerique",
+			"img" : "image Electronique Numerique",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -392,87 +392,9 @@
 				}
 			}
 		},
-		"introductionInformatique" : 		{
-			"name" : "Introduction a L'informatique",
-			"img" : "image de introduction a l'informatique",
-			"contenus" : {
-				"cours" :		{
-					"name" : "cours",
-					"img" : "image cours",
-					"ressources" : [
-						{
-							"num": 1,
-							"img": "image cours 1",
-							"name" : "name of cours 1",
-							"url" : "url cours 1"
-						},
-						{
-							"num": 2,
-							"img": "image cours 2",
-							"name" : "name cours 2",
-							"url" : "url cours 2"
-						}
-					]
-				},
-				"tds" :	{
-					"name" : "tds",
-					"img" : "image tds",
-					"ressources" : [
-						{
-							"num": 1,
-							"img": "image td 1",
-							"name" : "name of td 1",
-							"url" : "url td 1"
-						},
-						{
-							"num": 2,
-							"img": "image td 2",
-							"name" : "name of td 2",
-							"url" : "url td 2"
-						}
-					]
-				},
-				"tps" :	{
-					"name" : "tps",
-					"img" : "image tps",
-					"ressources" : [
-						{
-							"num": 1,
-							"img": "image tp 1",
-							"name" : "name of tp 1",
-							"url" : "url tp 1"
-						},
-						{
-							"num": 2,
-							"img": "image tp 2",
-							"name" : "name of tp 2",
-							"url" : "url tp 2"
-						}
-					]
-				},
-				"exams" :	{
-					"name" : "exams",
-					"img" : "image exams",
-					"ressources" : [
-						{
-							"num": 1,
-							"img": "image exam 1",
-							"name" : "name of exam 1",
-							"url" : "url exam 1"
-						},
-						{
-							"num": 2,
-							"img": "image exam 2",
-							"name" : "name of exam 2",
-							"url" : "url exam 2"
-						}
-					]
-				}
-			}
-		},
-		"langueEtTerminologie" : 					{
-			"name" : "Langue Et Terminologie",
-			"img" : "image de langue et terminologie",
+		"systemeExploitation" : 		{
+			"name" : "Systeme D'exploitation",
+			"img" : "image systeme d'exploitation",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",

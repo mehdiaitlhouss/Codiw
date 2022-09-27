@@ -1,11 +1,10 @@
 {
-	"description" : "une petite description sur s1",
-	"img" : "image s1",
+	"img" : "image s2",
 	"name" : "s2",
 	"matieres" : {
 		"analyse2" : {
-			"name" : "analyse 2",
-			"img" : "image analyse 2",
+			"name" : "Analyse 2",
+			"img" : "image de analyse 2",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -82,8 +81,8 @@
 			}
 		},
 		"algebre3" : 	{
-			"name" : "algebre 3",
-			"img" : "image algebre 3",
+			"name" : "Algebre 3",
+			"img" : "image de algebre 3",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -160,8 +159,8 @@
 			}
 		},
 		"optiqueGeometrique" : 	{
-			"name" : "optique geametrique",
-			"img" : "image optique geametrique",
+			"name" : "Optique Geametrique",
+			"img" : "image de optique geametrique",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -238,8 +237,8 @@
 			}
 		},
 		"electricite" : 		{
-			"name" : "electricite",
-			"img" : "image electricite",
+			"name" : "Electricite",
+			"img" : "image de electricite",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -315,9 +314,9 @@
 				}
 			}
 		},
-		"algoritmique" : 		{
-			"name" : "algoritmique",
-			"img" : "image algoritmique",
+		"algoritmique1" : 		{
+			"name" : "Algoritmique 1",
+			"img" : "image de algoritmique 1",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -394,8 +393,8 @@
 			}
 		},
 		"analyse3" : 		{
-			"name" : "analyse 3",
-			"img" : "image analyse 3",
+			"name" : "Analyse 3",
+			"img" : "image de analyse 3",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
@@ -472,8 +471,8 @@
 			}
 		},
 		"langueEtTerminologie" : 					{
-			"name" : "langue et terminologie",
-			"img" : "image langue et terminologie",
+			"name" : "Langue Et Terminologie",
+			"img" : "image de langue et terminologie",
 			"contenus" : {
 				"cours" :		{
 					"name" : "cours",
