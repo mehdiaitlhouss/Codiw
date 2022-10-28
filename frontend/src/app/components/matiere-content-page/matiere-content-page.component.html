@@ -1,0 +1,6 @@
+<section class="courses">
+    <h2>{{ matiereName }}</h2>
+    <div class="portfolio-content">
+        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu" (click)="onGetContent(contenu.name)"></app-contenu>
+    </div>
+</section>

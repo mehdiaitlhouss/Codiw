@@ -1,6 +1,6 @@
 <section class="courses">
     <h2>{{ semesterName | uppercase }}</h2>
     <div class="portfolio-content">
-        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu" (click)="onGetContenet(contenu.name)"></app-contenu>
+        <app-contenu *ngFor="let contenu of contenus" [contenu]="contenu" (click)="onGetMatiereContenet(contenu.name)"></app-contenu>
     </div>
 </section>

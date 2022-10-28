@@ -13,7 +13,8 @@ import { Router } from '@angular/router';
 export class SemestersPageComponent implements OnInit {
   public contenus!: Contenu[];
 
-  constructor(private semesterService: SemesterService, private router: Router) { }
+  constructor(private semesterService: SemesterService, 
+              private router: Router) { }
 
   ngOnInit(): void {
     this.getSemesters();
@@ -30,7 +31,7 @@ export class SemestersPageComponent implements OnInit {
     );
   }
 
-  public onGetSemester(semesterName: string): void {
+  public onGetSemesterContent(semesterName: string): void {
     this.router.navigateByUrl(`smia/${semesterName}`);
   }
 }

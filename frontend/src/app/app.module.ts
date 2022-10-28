@@ -23,6 +23,7 @@ import { CoursesPageComponent } from './components/courses-page/courses-page.com
 import { ContactUsComponent } from './components/contact-us/contact-us.component';
 import { SemestersPageComponent } from './components/semesters-page/semesters-page.component';
 import { MatieresPageComponent } from './components/matieres-page/matieres-page.component';
+import { MatiereContentPageComponent } from './components/matiere-content-page/matiere-content-page.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -44,6 +45,7 @@ import { MatieresPageComponent } from './components/matieres-page/matieres-page.
     ContactUsComponent,
     SemestersPageComponent,
     MatieresPageComponent,
+    MatiereContentPageComponent,
   ],
   imports: [
     BrowserModule,

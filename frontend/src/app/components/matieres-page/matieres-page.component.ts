@@ -1,6 +1,6 @@
 import { HttpErrorResponse, HttpXhrBackend } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { Contenu } from 'src/app/contenu';
 import { SemesterService } from 'src/app/semester.service';
 
@@ -13,7 +13,9 @@ export class MatieresPageComponent implements OnInit {
   public contenus!: Contenu[];
   public semesterName!: string;
 
-  constructor(private semesterService: SemesterService, private route: ActivatedRoute) { }
+  constructor(private semesterService: SemesterService, 
+              private route: ActivatedRoute,
+              private router: Router) { }
 
   ngOnInit() {
     this.semesterName = this.route.snapshot.params['semesterName'];
@@ -31,8 +33,8 @@ export class MatieresPageComponent implements OnInit {
     );
   }
 
-  onGetContenet(contentName: string) {
-    
+  onGetMatiereContenet(matiereName: string) {
+    this.router.navigateByUrl(`smia/${this.semesterName}/${matiereName}`)
   }
 }
 
